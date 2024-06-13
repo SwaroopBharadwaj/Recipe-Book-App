@@ -30,7 +30,6 @@ function displayRecipes(recipes) {
         recipeItemEl.appendChild(recipeLinkEl);
         recipeListEl.appendChild(recipeItemEl);
 
-
     });
 }
 
